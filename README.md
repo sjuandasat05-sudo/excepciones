@@ -26,3 +26,20 @@ CAPTURAS DE EJECUCION DEL RETO
 REFLEXION PERSONAL SOBRE EL MANEJOR DE ERRORES
 
 -El manejo de errores es fundamental para no generarle confusiones al usuario por un error del codigo y ademas para informar sobre lo que no se debe introducir en el programa ,de esta forma el usuario esta mas conectado con el programa.
+
+==========================DATOS PERSONALES=======================================================
+
+
+
+JUAN DAVID SALAZAR TORRES
+
+FICHA :3169901
+
+ANALISIS Y DESARROLLO DE SOFTWARE
+
+PROFESOR
+
+CARLOS NAVIA
+
+SENA(CTMA)
+
